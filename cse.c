@@ -1934,6 +1934,10 @@ void login_menu() {
 // Main function
 int main() {
     login_menu();
+<<<<<<< HEAD
     printf("Author Kabbo(boss)");
+=======
+    printf("helper- khairul");
+>>>>>>> main
     return 0;
 }
